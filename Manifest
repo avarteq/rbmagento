@@ -15,6 +15,7 @@ lib/order.rb
 lib/product.rb
 lib/product_images.rb
 lib/product_types.rb
+lib/product_tier.rb
 lib/region.rb
 lib/server.rb
 lib/shipment.rb
